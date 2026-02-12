@@ -1,0 +1,99 @@
+code,label,years_available
+AI_PI,AI Preparedness Index,2023-2023
+SITC1_4,Animal and vegetable oils and fats,1970-2014
+SITC1_1,Beverages and tobacco,1966-2014
+Ka_bo,Bond openness index (1=fully liberalized),2000-2013
+CG_DEBT_GDP,Central Government Debt,1990-2018
+SITC1_5,Chemicals,1963-2014
+Ka_ci,Collective investment openness index (1=fully liberalized),2000-2013
+Ka_cc,Commercial credit openness index (1=fully liberalized),2000-2013
+SITC1_9,Commodity & transactions not classified accord to kind,1963-2014
+SITC1_2,"Crude materials, inedible, except fuels",1963-2014
+BCA,"Current account balance
+U.S. dollars",1980-2030
+BCA_NGDPD,"Current account balance, percent of GDP",1980-2030
+GGCB_G01_PGDP_PT,Cyclically adjusted balance,2001-2030
+GGCBP_G01_PGDP_PT,Cyclically adjusted primary balance,2001-2030
+DEBT1,DEBT,1939-2015
+DebtForg,Debt Forgiveness,1995-2014
+DebtA,Debt Securities Assets,2000-2014
+DebtL,Debt Securities Liabilities,1995-2014
+Ka_dr,Derivative investment openness index (1=fully liberalized),2000-2013
+DI,Digital Infrastructure,2023-2023
+DirectAbroad,Direct Investment Abroad,2000-2014
+DirectIn,Direct Investment In Country,1995-2014
+ka_ldi,Direct investment liquidation openness index (1=fully liberalized),2000-2013
+Ka_di,Direct investment openness index (1=fully liberalized),2000-2013
+EquityA,Equity Securities Assets,2000-2014
+EquityL,Equity Securities Liabilities,1995-2014
+Ka_eq,Equity openness index (1=fully liberalized),2000-2013
+G_X_G01_GDP_PT,Expenditure,1995-2030
+total_theil,Export Diversification Index,1962-2014
+SITC1_total,Export Quality Index,1963-2014
+extensive,Extensive Margin,1962-2014
+Deriv,Financial Derivatives,2000-2014
+FM_ka,"Financial Market Openness Index (equity, bond, money market, collective investment, derivates) 1=fully liberalized",2000-2013
+Ka_fc,Financial credit openness index (1=fully liberalized),2000-2013
+FR_ind,Fiscal Rule Indicator,1985-2024
+SITC1_0,Food and live animals,1963-2014
+PPPSH,"GDP based on PPP, share of world",1980-2030
+PPPPC,"GDP per capita, current prices",1980-2030
+NGDPDPC,"GDP per capita, current prices
+",1980-2030
+NGDPD,"GDP, current prices",1980-2030
+PPPGDP,"GDP, current prices",1980-2030
+GRB_dummy,Gender Budgeting Indicator,2005-2015
+GDI_TC,Gender Development Index (GDI) Time Consistent,1990-2013
+GII_TC,Gender Inequality Index (GII) Time Consistent,1990-2013
+GGXWDG_NGDP,General government gross debt,2001-2024
+GGXCNL_NGDP,General government net lending/borrowing,1995-2024
+exp,"Government expenditure, percent of GDP",1995-2024
+pb,"Government primary balance, percent of GDP",1995-2024
+prim_exp,"Government primary expenditure, percent of GDP",1995-2024
+rev,"Government revenue, percent of GDP",1995-2024
+G_XWDG_G01_GDP_PT,Gross debt position,2001-2030
+d,"Gross public debt, percent of GDP",1995-2024
+Ka_gu,Guarantee openness index (1=fully liberalized),2000-2013
+HCLMP,Human Capital and Labor Market Policies,2023-2023
+PPPEX,Implied PPP conversion rate,1980-2030
+PCPIPCH,"Inflation rate, average consumer prices",1980-2030
+PCPIEPCH,"Inflation rate, end of period consumer prices",1980-2030
+IEI,Innovation and Economic Integration,2023-2023
+intensive,Intensive Margin,1962-2014
+ie,"Interest paid on public debt, percent of GDP",1995-2024
+SITC1_7,Machinery and transport equipment,1963-2014
+SITC1_6,Manufact goods classified chiefly by material,1963-2014
+SITC1_3,"Mineral fuels, lubricants and related materials",1963-2014
+SITC1_8,Miscellaneous manufactured articles,1963-2014
+Ka_mm,Money market openness index (1=fully liberalized),2000-2013
+GGXCNL_G01_GDP_PT,Net lending/borrowing (also referred as overall balance),1995-2030
+GDP,Nominal GDP,1995-2014
+NFPS_DEBT_GDP,Nonfinancial Public Sector Debt,1950-2024
+Nonres_ka,Nonresident Openness Index (1=fully liberalized),2000-2013
+ka_in,Openness of Capital Inflows Index  (1=fully liberalized),2000-2013
+ka_out,Openness of Capital Outflows Index   (1=fully liberalized),2000-2013
+OtherA,Other Investment Assets,1995-2014
+OtherL,Other Investment Liabilities,1995-2014
+ka_new,Overall Openness Index (all asset categories),2000-2013
+ka_pct,Personal capital transaction openness index (1=fully liberalized),2000-2013
+LP,Population,1980-2030
+Portfa,Portfolio Investment Assets,2000-2014
+Portfl,Portfolio Investment Liabilities,1995-2014
+GGXONLB_G01_GDP_PT,Primary net lending/borrowing (also referred as primary balance),1995-2030
+PrivInexDI,Private Inflows excluding Direct Investment,1995-2014
+PrivInexDIGDP,Private Inflows excluding Direct Investment (% of GDP),1995-2014
+PrivOutexDI,Private Outflows excluding Direct Investment,1995-2014
+PrivOutexDIGDP,Private Outflows excluding Direct Investment (% of GDP),1995-2014
+PVD_LS,"Private debt, loans and debt securities",1950-2024
+OtherGov,Proxy for Official Other Investment Liabilities,1995-2014
+Reserves_ARA,Ratio of reserve/ARA metric ,2000-2025
+NGDP_RPCH,Real GDP growth,1980-2030
+rgc,"Real GDP growth rate, percent",1970-2024
+ka_ret,Real estate capital transaction openness index (1=fully liberalized),2000-2013
+RE,Regulation and Ethics,2023-2023
+Reserves_M,Reserve/(Import/12) ,2002-2025
+Reserves_M2,Reserves/Broad Money,2002-2025
+Reserves_STD,Reserves/Short-term Debt (STD),2002-2025
+Res_ka,Resident Openness Index (1=fully liberalized),2000-2013
+GGR_G01_GDP_PT,Revenue,1995-2030
+LUR,Unemployment rate,1988-2030

@@ -1,0 +1,39 @@
+# Environment & secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Non-Ecuador scripts (local only)
+fred_uk_data.py
+imf_china_india.py
+imf_charts.py
+gilt_animation.py
+ons_explore.py
+ons_uk_data.py
+fred_data/
+imf_data/
+imf_charts/
+ons_data/
+media/
+
+# Generated chart PNGs (embedded in notebook)
+*.png
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+nul
+
+# Claude Code
+.claude/
+
+# Extra notebooks (not for distribution)
+ecuador_analysis_from_remote.ipynb
